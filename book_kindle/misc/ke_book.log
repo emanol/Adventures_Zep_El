@@ -1,0 +1,513 @@
+2018-02-03 17:45:11.355 [] INFO  FixedLayoutBook.KidsBook  - Saving stylesheet
+2018-02-03 17:45:11.356 [] INFO  FixedLayoutBook.NcxDocument  - Saving NCX
+2018-02-03 17:45:11.357 [] INFO  FixedLayoutBook.OPFDocument  - Saving OPF
+2018-02-03 17:45:11.357 [] ERROR FixedLayoutBook.OPFDocument  - Failed to open OPF for saving
+2018-02-03 17:45:11.358 [] INFO  FixedLayoutBook.BookMetadata  - Scaling the image
+2018-02-03 17:45:11.747 [] INFO  FixedLayoutBook.BookMetadata  - Scaling not done for /Users/Imanol/Desktop/book_kindle/cover-image.jpg, since the image meets the guidelines.
+2018-02-03 17:45:11.819 [] INFO  TabManager  - Page is null
+2018-02-03 17:45:12.543 [] INFO  BookManagerDock  - Adding page(s) to book...
+2018-02-03 17:45:23.425 [] INFO  BookManagerDock  - Adding page(s) to book...
+2018-02-03 17:45:23.447 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:5ms
+2018-02-03 17:45:23.482 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.514 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.548 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.580 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.598 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.631 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.663 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.681 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.714 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.748 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.765 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.798 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.830 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.864 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.881 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.915 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:23.948 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.965 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:23.997 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.031 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.064 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.098 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.130 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.165 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.182 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.214 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.248 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.281 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.315 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.348 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.365 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.382 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.414 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.448 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.464 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.481 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.516 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.548 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:24.565 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:1ms
+2018-02-03 17:45:24.597 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-image:0ms
+2018-02-03 17:45:25.792 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:45:28.969 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:45:32.180 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:45:36.051 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:45:39.762 [] INFO  MetricsUploadThread  - https://fls-na.amazon.com/1/kc3/1/OE/kc3/action/kids:import-image@v=5:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/kids:import-image@v=1:u=ms/kids:import-image@v=0:u=ms/?marketplaceId=A2EUQ1WTGCTBG2&requestId=kc3-request-id&session={022fd013-f791-42fb-979d-e5c042dedccc}
+2018-02-03 17:45:39.797 [] INFO  MetricsUploadThread  - reply was successful and removing entries
+2018-02-03 17:45:43.081 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:45:51.376 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:45:57.992 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:02.458 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:07.094 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:11.500 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:16.740 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:22.937 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:27.137 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:31.485 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:35.159 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:39.060 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:42.798 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:46.552 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:50.254 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:46:55.889 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:00.894 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:04.198 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:07.668 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:11.728 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:15.542 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:18.983 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:22.347 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:27.163 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:31.313 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:35.256 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:38.900 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:42.746 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:47.749 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:51.316 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:47:55.461 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:48:00.138 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:48:04.032 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:48:09.113 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:48:13.448 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:48:17.082 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:48:20.669 [] INFO  FixedLayoutBook.Layout  - Loading the image
+2018-02-03 17:48:22.732 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:48:22.732 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:48:22.732 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:48:22.732 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:48:22.735 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:22.735 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:22.742 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:6ms
+2018-02-03 17:48:22.749 [] INFO  MetricManager  - TimerMetricEntry : kidsimport-images:179324ms
+2018-02-03 17:48:22.761 [] INFO  SystemUtils  - Available Memory (RAM): hw.memsize: 8589934592
+hw.usermem: 232361984
+
+2018-02-03 17:48:22.761 [] INFO  BookController  - MemoryTotal::57464756
+2018-02-03 17:48:22.959 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page.jpg
+2018-02-03 17:48:22.959 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page_thumb.jpg
+2018-02-03 17:48:22.967 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:22.968 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:22.968 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:22.968 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:22.968 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:22.969 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:32.547 [] INFO  BookController  - Loaded the book: Kids' Book
+2018-02-03 17:48:32.548 [] INFO  MetricManager  - TimerMetricEntry : kidsbook-create:293386ms
+2018-02-03 17:48:34.042 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:34.042 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/0Thanks_Page.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:34.046 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:48:34.046 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:48:34.046 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:48:34.046 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:48:34.049 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:34.049 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:34.056 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:7ms
+2018-02-03 17:48:34.133 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_1m.jpg
+2018-02-03 17:48:34.133 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_1m_thumb.jpg
+2018-02-03 17:48:34.146 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:34.147 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:34.148 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:34.148 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:34.148 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:34.148 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:38.124 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:38.124 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; background-image: url(scaled-images/Page_1m.jpg); background-size: 1919px 1483px; width: 1919px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:38.130 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:38.130 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:38.137 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:5ms
+2018-02-03 17:48:38.200 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page.jpg
+2018-02-03 17:48:38.200 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page_thumb.jpg
+2018-02-03 17:48:38.212 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:38.213 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:38.213 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:38.214 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:38.215 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:38.216 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:38.834 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:38.834 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/0Thanks_Page.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:38.840 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:38.840 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:38.846 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:6ms
+2018-02-03 17:48:38.910 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_1m.jpg
+2018-02-03 17:48:38.911 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_1m_thumb.jpg
+2018-02-03 17:48:38.922 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:38.923 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:38.924 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:38.924 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:38.924 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:38.924 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:40.288 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:40.288 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; background-image: url(scaled-images/Page_1m.jpg); background-size: 1919px 1483px; width: 1919px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:40.292 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:48:40.292 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:48:40.292 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:48:40.292 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:48:40.295 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:40.295 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:40.301 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:5ms
+2018-02-03 17:48:40.368 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_11m.jpg
+2018-02-03 17:48:40.368 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_11m_thumb.jpg
+2018-02-03 17:48:40.381 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:40.383 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:40.383 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:40.383 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:40.384 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:40.384 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:45.260 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:45.261 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; background-image: url(scaled-images/Page_11m.jpg); background-size: 1919px 1483px; width: 1919px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:45.265 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:48:45.265 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:48:45.265 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:48:45.265 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:48:45.268 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:45.268 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:45.273 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:5ms
+2018-02-03 17:48:45.338 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_12.jpg
+2018-02-03 17:48:45.338 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_12_thumb.jpg
+2018-02-03 17:48:45.353 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:45.354 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:45.354 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:45.355 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:45.355 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:45.355 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:46.009 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:46.010 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/Page_12.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:46.015 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:46.015 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:46.021 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:5ms
+2018-02-03 17:48:46.089 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_11m.jpg
+2018-02-03 17:48:46.089 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_11m_thumb.jpg
+2018-02-03 17:48:46.100 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:46.102 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:46.102 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:46.102 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:46.103 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:46.103 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:47.369 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:47.369 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; background-image: url(scaled-images/Page_11m.jpg); background-size: 1919px 1483px; width: 1919px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:47.373 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:48:47.373 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:48:47.373 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:48:47.373 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:48:47.376 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:47.376 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:47.382 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:6ms
+2018-02-03 17:48:47.448 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_40.jpg
+2018-02-03 17:48:47.448 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_40_thumb.jpg
+2018-02-03 17:48:47.461 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:47.463 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:47.463 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:47.463 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:47.463 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:47.463 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:48.788 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:48.788 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/Page_40.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:48.791 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:48:48.791 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:48:48.792 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:48:48.792 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:48:48.794 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:48.794 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:48.800 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:5ms
+2018-02-03 17:48:48.865 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_35.jpg
+2018-02-03 17:48:48.865 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_35_thumb.jpg
+2018-02-03 17:48:48.876 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:48.877 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:48.877 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:48.877 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:48.877 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:48.878 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:49.646 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:49.646 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/Page_35.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:49.650 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:48:49.650 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:48:49.650 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:48:49.650 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:48:49.652 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:49.653 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:49.658 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:5ms
+2018-02-03 17:48:49.727 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_34.jpg
+2018-02-03 17:48:49.727 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_34_thumb.jpg
+2018-02-03 17:48:49.742 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:49.743 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:49.743 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:49.743 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:49.743 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:49.744 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:50.748 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:50.748 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/Page_34.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:50.754 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:50.754 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:50.760 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:6ms
+2018-02-03 17:48:50.823 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page.jpg
+2018-02-03 17:48:50.823 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page_thumb.jpg
+2018-02-03 17:48:50.835 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:50.836 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:50.836 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:50.836 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:50.837 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:50.837 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:52.153 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:52.153 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:54.811 [] INFO  FixedLayoutBook.KidsBook.KidsBookDesignView  - Changed zoom to 50%
+2018-02-03 17:48:57.771 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:57.772 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/0Thanks_Page.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:57.779 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:57.779 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:57.785 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:6ms
+2018-02-03 17:48:57.861 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_1m.jpg
+2018-02-03 17:48:57.861 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/Page_1m_thumb.jpg
+2018-02-03 17:48:57.873 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:57.874 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:57.874 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:57.874 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:57.875 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:57.875 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:48:59.851 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:59.851 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; background-image: url(scaled-images/Page_1m.jpg); background-size: 1919px 1483px; width: 1919px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:59.857 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:48:59.857 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:48:59.863 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:6ms
+2018-02-03 17:48:59.926 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page.jpg
+2018-02-03 17:48:59.926 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page_thumb.jpg
+2018-02-03 17:48:59.937 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:59.939 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:59.939 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:48:59.940 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:48:59.940 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:48:59.940 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:49:11.136 [] INFO  SystemUtils  - Available Memory (RAM): hw.memsize: 8589934592
+hw.usermem: 206807040
+
+2018-02-03 17:49:11.137 [] INFO  BookController  - MemoryTotal::57464756
+2018-02-03 17:49:11.137 [] INFO  BookController  - Exporting...
+2018-02-03 17:49:13.266 [] INFO  BookController  - Saving book...
+2018-02-03 17:49:13.268 [] INFO  KEQWebPage  - JS Console:div.fs { width: 1920px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:49:13.268 [] INFO  KEQWebPage  - JS Console:#page-img { margin-top: 0px; margin-bottom: 0px; margin-left: 1px; margin-right: 1px; background-image: url(scaled-images/0Thanks_Page.jpg); background-size: 1918px 1483px; width: 1918px; height: 1483px; }: line:2495 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:49:13.274 [] INFO  FixedLayoutBook.Layout  - Kindle Kids' Book Creator created stylesheet not found
+2018-02-03 17:49:13.274 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.280 [] INFO  MetricManager  - TimerMetricEntry : kidspage-ui-load:6ms
+2018-02-03 17:49:13.281 [] INFO  FixedLayoutBook.KidsBook  - Generating kids book OPF...
+2018-02-03 17:49:13.281 [] INFO  FixedLayoutBook.BookMetadata  - Previous source was 
+2018-02-03 17:49:13.281 [] INFO  FixedLayoutBook.BookMetadata  - Current stamp is KKBC/1.003/baebfe4/mac
+2018-02-03 17:49:13.282 [] INFO  FixedLayoutBook  - Saving pages...
+2018-02-03 17:49:13.283 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.285 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.286 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.286 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.286 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.287 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.288 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.288 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.288 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.289 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.289 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.290 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.290 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.290 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.291 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.291 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.292 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.293 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.293 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.293 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.293 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.294 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.295 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.295 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.295 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.295 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.296 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.297 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.297 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.298 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.298 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.299 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.300 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.300 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.300 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.300 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.301 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.302 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.302 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.302 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.302 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.303 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.304 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.304 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.304 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.304 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.306 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.309 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.311 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.312 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.312 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.312 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.312 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.313 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.314 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.314 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.315 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.315 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.316 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.318 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.318 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.318 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.318 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.320 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.322 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.322 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.322 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.322 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.324 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.326 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.326 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.326 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.326 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.327 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.328 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.328 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.328 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.328 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.330 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.331 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.331 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.331 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.331 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.333 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.335 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.335 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.335 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.335 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.336 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.337 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.337 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.338 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.338 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.338 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.339 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.339 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.340 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.340 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.341 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.342 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.342 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.342 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.342 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.343 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.345 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.345 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.345 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.345 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.347 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.349 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.349 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.349 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.349 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.352 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.353 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.354 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.354 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.354 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.356 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.358 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.358 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.358 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.358 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.359 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.361 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.361 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.361 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.361 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.362 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.363 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.363 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.363 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.364 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.365 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.366 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.367 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.367 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.367 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.369 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.370 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.370 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.370 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.371 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.371 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.372 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.372 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.372 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.373 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.374 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.375 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.375 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.375 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.375 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.376 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.379 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.382 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.383 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.383 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.384 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.384 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.385 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.386 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.386 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.386 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.387 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.388 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.390 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.390 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.390 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.390 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.392 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.393 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Generating HTML for kids page for loading HTML
+2018-02-03 17:49:13.394 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating head tag for kids page
+2018-02-03 17:49:13.394 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating body tag for kids page
+2018-02-03 17:49:13.394 [] INFO  FixedLayoutBook.KidsBookPageLayout  - Creating page level CSS as there is none
+2018-02-03 17:49:13.396 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.398 [] INFO  FixedLayoutBook.Page  - Adding book level link tag for template css
+2018-02-03 17:49:13.399 [] INFO  FixedLayoutBook.OPFDocument  - Saving OPF
+2018-02-03 17:49:13.399 [] ERROR FixedLayoutBook.OPFDocument  - Failed to open OPF for saving
+2018-02-03 17:49:13.402 [] INFO  FixedLayoutBook.NcxDocument  - Saving NCX
+2018-02-03 17:49:13.406 [] INFO  MetricManager  - TimerMetricEntry : kidsuser-save:140ms
+2018-02-03 17:49:13.423 [] INFO  BookController  - Validation passed without errors
+2018-02-03 17:49:13.685 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page.jpg
+2018-02-03 17:49:13.686 [] INFO  KENetworkAccessManager  - Loading image /Users/Imanol/Desktop/book_kindle/html/scaled-images/0Thanks_Page_thumb.jpg
+2018-02-03 17:49:13.704 [] INFO  KEQWebPage  - JS Console:RichTextToolbar.initialize: data-app-amzn-ke-editable,,RichtextBridge(name = ""),[object CSSStyleSheet],undefined: line:96 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:49:13.705 [] INFO  KEQWebPage  - JS Console:Initializing Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:49:13.706 [] INFO  KEQWebPage  - JS Console:Initialized Properties: line:141 srcId:qrc:/js/js/properties.js
+2018-02-03 17:49:13.706 [] INFO  KEQWebPage  - JS Console:rich text : Resetting Current Element: line:1049 srcId:qrc:/js/js/richtext.js
+2018-02-03 17:49:13.706 [] INFO  KEQWebPage  - JS Console:Resetting current edit element: line:1132 srcId:qrc:/js/js/kids-book-edit.js
+2018-02-03 17:49:13.706 [] INFO  KEQWebPage  - JS Console:loading done ...: line:6 srcId:qrc:/js/js/kids-book-edit-loader.js
+2018-02-03 17:49:39.769 [] INFO  MetricsUploadThread  - https://fls-na.amazon.com/1/kc3/1/OE/kc3/action/kids:page-ui-load@v=6:u=ms/kids:import-images@v=179324:u=ms/kids:book-create@v=293386:u=ms/kids:page-ui-load@v=7:u=ms/kids:page-ui-load@v=5:u=ms/kids:page-ui-load@v=6:u=ms/kids:page-ui-load@v=5:u=ms/kids:page-ui-load@v=5:u=ms/kids:page-ui-load@v=5:u=ms/kids:page-ui-load@v=6:u=ms/kids:page-ui-load@v=5:u=ms/kids:page-ui-load@v=5:u=ms/kids:page-ui-load@v=6:u=ms/kids:page-ui-load@v=6:u=ms/kids:page-ui-load@v=6:u=ms/kids:page-ui-load@v=6:u=ms/kids:user-save@v=140:u=ms/?marketplaceId=A2EUQ1WTGCTBG2&requestId=kc3-request-id&session={022fd013-f791-42fb-979d-e5c042dedccc}
+2018-02-03 17:49:39.883 [] INFO  MetricsUploadThread  - reply was successful and removing entries
+2018-02-03 17:49:52.489 [] INFO  KindlegenBuilder  - KF8 Built Successfully.
+2018-02-03 17:49:55.217 [] INFO  MetricManager  - TimerMetricEntry : kidsexport-kf8:41786ms
+2018-02-03 17:51:45.890 [] INFO  MetricsUploadThread  - https://fls-na.amazon.com/1/kc3/1/OE/kc3/action/kids:export-kf8@v=41786:u=ms/?marketplaceId=A2EUQ1WTGCTBG2&requestId=kc3-request-id&session={022fd013-f791-42fb-979d-e5c042dedccc}
+2018-02-03 17:51:46.122 [] INFO  MetricsUploadThread  - reply was successful and removing entries
+2018-02-03 18:02:48.767 [] INFO  MainWindow  - Shutting down
+2018-02-03 18:02:48.776 [] INFO  BookController  - Closing book...
+2018-02-03 18:02:48.776 [] INFO  TabManager  - Checking if view is dirty
+2018-02-03 18:02:48.777 [] INFO  DesignViewTab  - Going to current view
